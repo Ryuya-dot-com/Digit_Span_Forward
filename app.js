@@ -17,8 +17,8 @@
       nextTrialDelayMs: 300,
     },
     audio: {
-      digitsDir: "../audio/digits",
-      beep: "../audio/beep.wav",
+      digitsDir: "./audio/digits",
+      beep: "./audio/beep.wav",
     },
   };
 
