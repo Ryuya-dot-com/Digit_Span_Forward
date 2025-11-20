@@ -7,7 +7,7 @@
     main: {
       minDigits: 3,
       maxDigits: 9,
-      trialsPerLevel: 12,
+      trialsPerLevel: 3,
     },
     timing: {
       preDigitsMs: 400,
